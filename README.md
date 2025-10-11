@@ -27,7 +27,3 @@
 ###
 
 ###
-
-<p align="left">The in-question "dabbled with"<br>-- I'm no programmer, I'm very good at f*cking around and finding out --</p>
-
-###
