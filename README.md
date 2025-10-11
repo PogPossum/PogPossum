@@ -5,5 +5,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/PogPossum/PogPossum/output/snake.svg" alt="Snake animation" />
-
+![snake gif](https://pogpossum.github.io/PogPossum/snake.svg)
 ###
