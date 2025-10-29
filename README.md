@@ -2,13 +2,17 @@
 
 ###
 
-<p align="left">✨ Just a girly hanging out the boys from IT ✨<br>I'm an IT student from Denmark studying datatech, with my specail being infrastructure. <br><br><br>Other than that I collect retro consoles and I like to dabble with coding and scripting.<br>-- Side note, Most of the notes in my code will be in danish, since it's my native tongue --</p>
-
-<p align="left">Being in datatech, I aim to get better at automation scripts for network and servers</p>
+<p align="left">✨ Just a girly hanging out the boys from IT ✨<br>I'm an IT student from Denmark studying datatech, with my specail being infrastructure.<br><br>Being in datatech, I aim to get better at automation scripts for network and servers</p>
 
 ###
 
-<br clear="both">
+<p align="left"></p>
+
+###
+
+<p align="left">Other than that I collect retro consoles and I like to dabble with coding and scripting.<br>-- Side note, Most of the notes in my code will be in danish, since it's my native tongue --</p>
+
+###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
