@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ Just a girly hanging out the boys from IT ✨<br>I'm an IT student from Denmark studying datatech, with my specail being infrastructure.<br><br>Being in datatech, I aim to get better at automation scripts for network and servers</p>
+<p align="left">✨ Just a girly hanging out the boys from IT ✨<br>I'm an IT student from Denmark studying datatech, with my specail being infrastructure.<br><br>Being in datatech, I aim to get better at automation scripts for network and servers.</p>
 
 ###
 
