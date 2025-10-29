@@ -6,10 +6,6 @@
 
 ###
 
-<p align="left"></p>
-
-###
-
 <p align="left">Other than that I collect retro consoles and I like to dabble with coding and scripting.<br>-- Side note, Most of the notes in my code will be in danish, since it's my native tongue --</p>
 
 ###
