@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Just a girly hanging out the boys from IT ✨<br>I'm an IT student from Denmark studying to be a data technician , with my specail being infrastructure. <br><br><br>Other than that I collect retro consoles and I like to dabble with coding and scripting.<br>-- Side note, Most of the notes in my code will be in danish, since it's my native tongue --</p>
+<p data-importer="text" align="left">✨ Just a girly hanging out the boys from IT ✨<br>I'm an IT student from Denmark studying to be a data technician , with my specail being infrastructure. <br><br><br>Other than that I collect retro consoles and I like to dabble with coding and scripting.<br>-- Side note, most of the notes in my code will be in danish, since it's my native tongue --</p>
 
 ###
 
