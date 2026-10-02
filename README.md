@@ -23,10 +23,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-</div>
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
 
+###
 ###
 
 <p data-importer="text" align="left">The in-question "dabbled with"<br>-- I'm no programmer, I'm very good at f*cking around and finding out --<br><br>============ ============ ============ ============</p>
